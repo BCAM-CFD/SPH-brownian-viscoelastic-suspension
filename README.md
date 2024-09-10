@@ -34,8 +34,7 @@ Code to simulate Brownian and non-Brownian suspensions with  Newtonian and visco
      Adolfo Vazquez-Quesada.
 
  Contact: 
-        a.vazquez-quesada@fisfun.uned.es
-        mellero@bcamath.org
+        a.vazquez-quesada@fisfun.uned.es, mellero@bcamath.org
 -----------------------------------------------------------------
 
 -------------------------- INSTALLATION -------------------------------
