@@ -37,6 +37,8 @@ Code to simulate Brownian and non-Brownian suspensions with  Newtonian and visco
 
  Contact: 
         a.vazquez-quesada@fisfun.uned.es, mellero@bcamath.org
+
+        
 -----------------------------------------------------------------
 
 -------------------------- INSTALLATION -------------------------------
@@ -83,6 +85,7 @@ to compile mcf code,
   make install
 
 to install mcf executable binary at ...../mcf/mcf_install/ folder.
+
 -----------------------------------------------------------------
 
 -------------- USE -----------------------------------------------
@@ -90,4 +93,5 @@ to install mcf executable binary at ...../mcf/mcf_install/ folder.
 Three input files are required to launch a simulation. Examples of
 these input files can be found in the 'mcf_config' directory. The
 details of the inputs are explained within those files.
+
 -------------------------------------------------------------------
