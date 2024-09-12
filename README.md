@@ -4,7 +4,7 @@
 
 Code to simulate Brownian and non-Brownian suspensions with  Newtonian and viscoelastic matrices
 
----------------------------- DESCRIPTION ------------------------
+--------------------- DESCRIPTION ------------------------
 
  Code to simulate Brownian and non-Brownian suspensions with
  Newtonian and viscoelastic matrices. Thermodynamically consistent
