@@ -1,5 +1,6 @@
 # SPH-brownian-viscoelastic-suspension
-![alt text](https://github.com/BCAM-CFD/SPH-brownian-viscoelastic-suspension/blob/main/non-colloidal_suspension.gif)
+<p>
+<img src="https://github.com/BCAM-CFD/SPH-brownian-viscoelastic-suspension/blob/main/non-colloidal_suspension.gif" height="400rm" align="right">
 
 Code to simulate Brownian and non-Brownian suspensions with  Newtonian and viscoelastic matrices
 
